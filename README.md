@@ -1,5 +1,4 @@
-# FP-ASD-Kelompok-15
-Sudoku &amp; Tic Tac Toe
+# ASD-Tic Tac Toe
 
 Anggota:
 Harbima Razan - 5026231225
