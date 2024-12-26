@@ -1,4 +1,4 @@
-# ASD-Tic Tac Toe
+# ASD-Connect Four
 Kelompok 15
 
 Anggota:
